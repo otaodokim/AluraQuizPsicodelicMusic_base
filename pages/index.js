@@ -40,14 +40,14 @@ export default function Home() {
 
         <Widget>
           <Widget.Content>
-            <h1>Quizes da Galera</h1>
+            <h1>Quizes AND Quizes</h1>
 
-            <p>lorem ipsum dolor sit amet...</p>
+            <p>"[Deus] esta morto, viva perigoramente!"...</p>
           </Widget.Content>
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/omariosouto" />
+      <GitHubCorner projectUrl="https://github.com/otaodokim" />
     </QuizBackground>
   );
 }
